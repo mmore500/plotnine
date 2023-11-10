@@ -23,7 +23,7 @@ classifiers = [
 ]
 dependencies = [
     "matplotlib>=3.6.0",
-    "mizani~=0.10.0",
+    "mizani>=0.9.0",
     "numpy>=1.23.0",
     "pandas>=1.1.2",
     "patsy>=0.5.1",
