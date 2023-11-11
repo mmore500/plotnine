@@ -22,7 +22,7 @@ classifiers = [
     "Topic :: Scientific/Engineering :: Visualization"
 ]
 dependencies = [
-    "matplotlib>=3.6.0",
+    "matplotlib>=3.5.2",
     "mizani",
     "numpy>=1.23.0",
     "pandas>=1.1.2",
